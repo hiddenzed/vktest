@@ -27,7 +27,6 @@ MANIFEST
 
 dt/
 .directory
-.gitignore
 
 
 # PyInstaller
